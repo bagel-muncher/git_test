@@ -1,1 +1,2 @@
 Hello World 
+Hi Odin Project. I finally figured out what to do with Git. Yay Git Basics.
